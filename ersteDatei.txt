@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-erste Datei
-2. datei
-=======
 "Blah" 
 "SOOO" 
 
