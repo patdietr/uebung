@@ -4,4 +4,5 @@ erste Datei
 =======
 "Blah" 
 "SOOO" 
->>>>>>> refs/remotes/origin/master
+
+Denis Joos Test 2
