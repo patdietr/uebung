@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-erste Datei
-2. datei
-=======
 "Blah" 
 "SOOO" 
->>>>>>> refs/remotes/origin/master
+zeile
+
+Denis Joos Test 2
+
+zeile in github
