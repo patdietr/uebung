@@ -1,2 +1,3 @@
-datei 2, änderung 0
+datei 2, ï¿½nderung 0
 (S)PAST
+MergeTest ---local + remotechange
